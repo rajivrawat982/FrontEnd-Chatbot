@@ -1,0 +1,10 @@
+.option {
+    border: 0.1px solid #d3d3d3;
+    border-radius: 8px;
+    margin: 10px 20px;
+    padding: 15px 4px;
+    text-align: justify;
+    font-size: small;
+    font-weight: 500;
+    box-shadow:0px 0.5px #d3d3d3;
+}
